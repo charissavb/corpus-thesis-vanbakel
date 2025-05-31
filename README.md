@@ -1,7 +1,7 @@
 # corpus-thesis-vanbakel
 # Elderly Suicide Media Corpus – South Korea and the Netherlands
 
-This repository contains the qualitative media corpus used for the analysis in the thesis titled: **"Elderly Suicide in South Korea and the Netherlands: A mixed-methods analysis of socioeconomic predictors and media discourse"**.
+This repository contains the qualitative media corpus used for the analysis of my bachelor thesis titled: **"Elderly Suicide in South Korea and the Netherlands: A mixed-methods analysis of socioeconomic predictors and media discourse"**.
 
 ## Overview
 
