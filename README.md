@@ -24,5 +24,5 @@ This corpus-based dataset includes stratified samples of newspaper articles from
   - Dutch corpus: “ouderen zelfmoord” (elderly suicide)
 - **Sources**:
   - South Korea: Articles retrieved from [BigKinds](https://www.bigkinds.or.kr/)
-  - Netherlands: Articles retrieved from [Nexis Uni]([https://www.nexis.com](https://advance-lexis-com.ezproxy.leidenuniv.nl/firsttime?crid=08458996-56ff-4112-abb7-2bde8eeadf35))
+  - Netherlands: Articles retrieved from [Nexis Uni](https://www.lexisnexis.com)
 - **Preprocessing**: Articles were converted to plain `.txt` format and cleaned using language-specific stopword lists for compatibility with Sketch Engine.
